@@ -56,3 +56,5 @@ classMarksEnglish=[18,19,17,16,20,12,13]
 classMarksEnglish.remove(19)
 print(classMarksEnglish)
 
+## List concepts covered above
+
